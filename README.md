@@ -54,8 +54,6 @@ Used for **biomedical text summarization**
 * Flexible and effective for multiple NLP tasks
 * Generates **concise and readable summaries**
 
----
-
 ### ✅ 2. PEGASUS
 
 **Use in Project:**
@@ -69,8 +67,6 @@ Main model for **abstractive text summarization**
 * Produces **more informative and accurate summaries**
 
 ⭐ In this project, **PEGASUS achieved the best performance.**
-
----
 
 ### ✅ 3. BioGPT
 
