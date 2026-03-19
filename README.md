@@ -8,10 +8,17 @@ This project focuses on developing an **automated biomedical text summarization 
 
 The system helps doctors, researchers, and healthcare professionals quickly understand key insights from large biomedical documents.
 
-(Project details referenced from presentation )
+---
+## Dataset
+
+The dataset used in this project consists of biomedical abstracts collected from the PubMed database and provided as a processed multi-label text classification dataset.
+
+Since the dataset is large (~120MB), it is not included in this repository.
+
+🔗 Dataset Source (HuggingFace):
+https://huggingface.co/datasets/owaiskha9654/PubMed_MultiLabel_Text_Classification_Dataset_MeSH/blob/main/PubMed%20Multi%20Label%20Text%20Classification%20Dataset%20Processed.csv
 
 ---
-
 ## 🎯 Objectives
 
 * Build an automated system for **biomedical text summarization**
