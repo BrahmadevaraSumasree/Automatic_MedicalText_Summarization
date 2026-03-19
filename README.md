@@ -137,6 +137,3 @@ The generated summary retains **important medical findings and context.**
 * Integrate medical knowledge graphs
 * Develop real-time summarization tools for hospitals
 * Build intelligent medical assistants
-
-
-Just tell 👍
